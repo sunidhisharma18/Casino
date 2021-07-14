@@ -24,7 +24,7 @@ export default function Footer() {
     <>
     
     <BottomNavigation className={classes.root}>
-     <center><b style={{fontWeight:"bold", color:"#fff" }}>Copyright © 2021 | Casino</b></center>
+     <center><b style={{fontWeight:"bold", color:"#fff" }}>Sunidhi Sharma Copyright © 2021 | Casino</b></center>
     </BottomNavigation>
     </>
   );
